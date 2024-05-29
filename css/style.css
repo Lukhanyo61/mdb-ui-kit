@@ -784,7 +784,7 @@ margin-top: 100px;
   
   .form-control, 
   textarea {
-    max-width: 400px;
+  
     background-color: transparent;
     color: #fff;
     letter-spacing: 1px;
@@ -1335,13 +1335,7 @@ margin-top: 100px;
                                                                                 h2 {
                                                                                   color: #2B292E
                                                                                 }
-                                                                                
-                                                                                input {
-                                                                                  border: 1px solid #333;
-                                                                                  margin-bottom: 15px;
-                                                                                  min-width: 250px;
-                                                                                  padding: 8px;
-                                                                                }
+                                                                              
                                                                                 
                                                                                 .button {
                                                                                   transition-duration: 0.4s;
